@@ -1,5 +1,6 @@
+a = 7
+b = 13
 
-a = 8
-b = 5
 result = a > b
+
 print(result)

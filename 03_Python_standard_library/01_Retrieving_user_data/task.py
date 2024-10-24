@@ -1,3 +1,4 @@
-name = input("Enter your name: ")
-second_name = input("Enter your second name: ")
-print(f"{name} {second_name} is programmer")
+name = input("Enter name: ")
+surname = input("Enter surname: ")
+
+print(f"{name} {surname} is a Python programmer!")

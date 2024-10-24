@@ -1,11 +1,11 @@
 from xmlrpc.client import boolean
-
-name = "Maximilián"
-floating_point_number = 3.14
-number = 5
-logical_Value = True
-
-print(f"String has value {name}. float has value {floating_point_number}. number has value {number}. logical value is {logical_Value}.")
+integer_var = 42
+float_var = 3.14
+string_var = "Hello, world!"
+boolean_var = True
 
 
-
+print(f"Variable integer_var has value {integer_var}")
+print(f"Variable float_var has value {float_var}")
+print(f"Variable string_var has value {string_var}")
+print(f"Variable boolean_var has value {boolean_var}")

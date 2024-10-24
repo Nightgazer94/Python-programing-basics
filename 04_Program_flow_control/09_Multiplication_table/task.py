@@ -1,5 +1,3 @@
-n = int(input("Enter a number from 1 to 10: "))
-
-for number in range(1,11):
-    result = number * n
-    print(f"{number} x {n} = {result}")
+n = int(input())
+for i in range(1, 11):
+    print(f"{i} * {n} = {i * n}")

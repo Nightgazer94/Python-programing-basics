@@ -1,3 +1,4 @@
-array = ["a", "b", "c", "d", "e"]
-printed_array = " ".join(array)
-print(printed_array)
+letters = ['a', 'b', 'c', 'd', 'e']
+
+result = ' '.join(letters)
+print(result)

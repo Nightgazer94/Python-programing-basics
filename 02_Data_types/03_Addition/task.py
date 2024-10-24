@@ -1,5 +1,5 @@
-add1 = 15
-add2 = 12.4
-result = add1 + add2
+add1 = 10
+add2 = 2.5
 
-print(f"{add1} + {add2} = {result}")
+result = add1 + add2
+print(result)
